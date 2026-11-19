@@ -1,0 +1,34 @@
+# ============================================================
+# .gitignore for MiniTodoApp
+# ============================================================
+
+# --------------------
+# .NET / ASP.NET Core
+# --------------------
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.db
+*.db-shm
+*.db-wal
+appsettings.Development.json
+
+# --------------------
+# Node / React / Vite
+# --------------------
+node_modules/
+dist/
+.vite/
+*.local
+.env
+.env.*
+
+# --------------------
+# OS / Editor
+# --------------------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
