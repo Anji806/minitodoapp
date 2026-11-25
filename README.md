@@ -4,6 +4,8 @@ A minimal full-stack Todo application built with:
 - **Backend**: ASP.NET Core Web API (C#) + Entity Framework Core + SQLite
 - **Frontend**: React + Vite (JavaScript)
 
+// todo app changed
+
 ---
 
 ## Prerequisites
