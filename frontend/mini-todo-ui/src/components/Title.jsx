@@ -8,3 +8,4 @@ const Title = () => {
     )
 };
 export default Title;
+//the user interface modified
